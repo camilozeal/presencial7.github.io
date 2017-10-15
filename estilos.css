@@ -1,0 +1,176 @@
+body{
+	margin: 0;
+	font-family: 'Encode Sans Expanded', sans-serif;
+}
+
+
+.header{
+	top: 0;
+	
+	width: 100%;
+	height: 80px;
+}
+
+.logo img{
+	margin-left: 100px;
+	margin-top: 20px;
+	width: 160px;
+	float: left;
+}
+.nav{
+	color: white;
+	float: right;
+}
+ul{
+	margin-right: 100px;
+}
+li{
+	padding: 20px 20px;
+	list-style: none;
+	float: left;
+}
+.banner{
+	margin: 50px 20% 0px 30%;
+	position: relative;
+	float: left;
+}
+.banner h1{
+	text-align: center;
+	
+	color: white;
+}
+.banner h2{
+	color: white;
+}
+.banner p{
+	padding-top: 0;
+	clear: both;
+	text-align: center;
+	color: white;
+	font-size: 10pt;
+}
+.botones{
+	margin-left: 130px;
+}
+.botones h2{
+	margin-top: 10px;
+	float: left;
+	padding-left: 15px;
+	font-size: 18pt;
+	
+}
+.azul{
+	background-color: #1e76bd;
+	width: 200px;
+	height: 50px;
+	float: left;
+	border-radius: 8px;
+}
+
+.verde{
+	background-color: #008700;
+	width: 130px;
+	height: 50px;
+	float: left;
+	margin-left: 20px;
+	border-radius: 8px;
+}
+
+.banner p{
+	padding-top: 20px;
+}
+.personas{
+	text-align: center;
+	margin-top: 70px;
+}	
+.personas img{
+	width: 50%;
+	margin-top: 20px;
+}
+
+.informacion{
+	margin-top: 0;
+	background-color: #fafafa;
+	width: 100%;
+	height: 280px;
+	text-align: center;
+	border-top: solid 2px #e6e6e6;
+	border-bottom: solid 2px #e6e6e6;
+	box-sizing: border-box;
+}
+.informacion h3{
+	margin: 0;
+	padding-top: 50px;
+}
+.informacion p{
+	margin: 10px;
+}
+.inscribete{
+	background-color: #1e76bd;
+	width: 150px;
+	height: 50px;
+	border-radius: 8px;
+	margin-left: 45%;
+}
+.inscribete h3{
+	color: white;
+	padding-top: 15px;
+}
+.inscribete p{
+	width: 300px;
+	margin: 25px 100px 0px -70px;
+}
+.contacto{
+	margin-top: 30px;
+	float: left;
+}
+.info{
+	width: 300px;
+	height: 200px;
+	float: left;
+}
+.info h4{
+	color: #1e76bd
+}
+.suscribete{
+	width: 500px;
+	height: 200px;
+	float: left;
+}
+.ingresa{
+	width: 200px;
+	height: 40px;
+	border: 1px solid #e6e6e6;
+	border-radius: 5px;
+	float: left;
+}
+.ingresa p{
+	color: #a7a7a7;
+	margin: 0;
+	padding: 10px 0px 0px 15px;
+}
+.enviar {
+	margin-left: 10px;
+	width: 80px;
+	height: 40px;
+	border: 1px solid #e6e6e6;
+	border-radius: 5px;
+	float: left;
+}
+.enviar p{
+	color: black;
+	margin: 0;
+	padding: 10px 0px 0px 15px;
+}
+.fin{
+	width: 100%;
+	background-color: black;
+	height: 80px;
+}
+.fin h3{
+	margin-left: 50px;
+	padding: 15px;
+	color: white;
+
+	
+}
